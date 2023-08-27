@@ -1,0 +1,14 @@
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\bin\Debug\JuegoMeloFinal.exe.config
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\bin\Debug\JuegoMeloFinal.exe
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\bin\Debug\JuegoMeloFinal.pdb
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\obj\Debug\JuegoMeloFinal.csproj.AssemblyReference.cache
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\obj\Debug\JuegoMeloFinal.Form1.resources
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\obj\Debug\JuegoMeloFinal.Properties.Resources.resources
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\obj\Debug\JuegoMeloFinal.csproj.GenerateResource.cache
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\obj\Debug\JuegoMeloFinal.csproj.CoreCompileInputs.cache
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\obj\Debug\JuegoMeloFinal.exe
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\obj\Debug\JuegoMeloFinal.pdb
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\obj\Debug\JuegoMeloFinal.Registrarse.resources
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\obj\Debug\JuegoMeloFinal.PantallaDJuego.resources
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\obj\Debug\JuegoMeloFinal.MenuAdmin.resources
+C:\Users\omary\source\repos\Forms\JuegoMeloFinal\JuegoMeloFinal\obj\Debug\JuegoMeloFinal.MenuUsuario.resources
